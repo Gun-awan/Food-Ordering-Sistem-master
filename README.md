@@ -43,9 +43,39 @@ Selamat datang di proyek kami! Ini adalah aplikasi pemesanan makanan online berb
 
 ---
 
-## 📦 Struktur Proyek (Ringkas)
+## 📸 Demo Tampilan 
 
+> 
 
+---
+
+## 📌 Cara Menjalankan Proyek
+
+1. Clone repo ini:
+
+git clone https://github.com/Gun-awan/Food-Ordering-Sistem-master.git
+
+2. Import file SQL ke dalam MySQL (`phpmyadmin` atau tools lain).
+3. Jalankan `index.php` di localhost atau hosting.
+4. Selesai! 🎉
+
+---
+
+## 📬 Kontak
+
+Jika ada pertanyaan, silakan hubungi kami:
+
+- 📧 Email: c.nisalatansa@gmail.com
+
+---
+
+## 🌟 Jangan Lupa Bintangin Repo Ini!
+
+Jika kamu suka dengan proyek ini, kasih ⭐ ya biar makin semangat ngembanginnya!
+
+---
+
+##❗❗
 Note: Untuk menggunakan layanan login with google, harus disertakan file g-config.php.
 Sedangkan File g-config.php tidak bisa di sertakan di github (masalah keamanan), jadi download terlebih dahulu file g-config.php
 pada link berikut https://drive.google.com/drive/folders/1HLob6HTzmNxSsya1iGbNdta92-GeCpLZ?usp=sharing
