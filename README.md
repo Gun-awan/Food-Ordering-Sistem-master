@@ -118,6 +118,6 @@ lalu copy file g-config.php ke folder project setelah di clone/download.
 ---
 
 Made with ❤️ by **Kelompok 4 Online Food Order**  
-👨‍🏫 Dosen Pengampu: Sanudin, S.Kom., M.Kom.
 
+👨‍🏫 Dosen Pengampu: Sanudin, S.Kom., M.Kom.
 📍 2025 – Universitas Pelita Bangsa
