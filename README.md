@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/Gun-awan/Food-Ordering-Sistem-master/blob/main/2_20250609_061025_0001.png)
+![Anggota Kelompok 4](https://github.com/Gun-awan/Food-Ordering-Sistem-master/blob/main/2_20250609_061025_0001.png)
 
 Note: Untuk menggunakan layanan login with google, harus disertakan file g-config.php.
 Sedangkan File g-config.php tidak bisa di sertakan di github (masalah keamanan), jadi download terlebih dahulu file g-config.php
