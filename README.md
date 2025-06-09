@@ -3,6 +3,22 @@
 Selamat datang di proyek kami! Ini adalah aplikasi pemesanan makanan online berbasis web yang memudahkan pengguna dalam memesan makanan dari berbagai restoran secara cepat dan efisien.
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/status-developing-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/PHP-v7.4-blue?logo=php&style=flat-square" />
+  <img src="https://img.shields.io/badge/MySQL-database-blue?logo=mysql&style=flat-square" />
+  <img src="https://img.shields.io/badge/Bootstrap-v5-purple?logo=bootstrap&style=flat-square" />
+</p>
+
+---
+
+## 🌀 Loading...
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="80%" />
+</p>
+
+---
 
 ## 📸 Foto Kelompok
 
@@ -17,6 +33,34 @@ Selamat datang di proyek kami! Ini adalah aplikasi pemesanan makanan online berb
 - 🎨 **Ghalih** – Front-End Developer & UI/UX Designer  
 - 🛠️ **Bimo** – Database Engineer  
 - ⚙️ **Choiriyatun Nisa** – Fullstack Developer  
+
+## 🎯 Deskripsi Proyek
+
+**Online Food Ordering System** adalah platform pemesanan makanan berbasis web yang memudahkan pengguna dalam:
+- Melihat dan memilih menu makanan
+- Melakukan pemesanan online
+- Membayar langsung melalui sistem (Midtrans)
+
+Sistem ini dilengkapi dengan dashboard Admin untuk pengelolaan menu, pesanan, dan pengguna.
+
+---
+
+## 💡 Motto Tim
+
+> "Kami percaya makanan enak harus bisa diakses dengan cepat dan mudah 🍱💨"
+
+---
+
+## 📚 Fitur Aplikasi
+
+| Modul               | Deskripsi                                                  |
+|---------------------|-------------------------------------------------------------|
+| 🧑‍🍳 Login/Register  | Sistem autentikasi pengguna                                 |
+| 🍜 Menu Dinamis      | Menampilkan daftar menu dari database                       |
+| 🛒 Keranjang Belanja | Menambahkan dan mengelola pesanan makanan                   |
+| 💳 Pembayaran Online | Integrasi Midtrans Payment Gateway                          |
+| 📦 Riwayat Pesanan   | Lihat histori transaksi pengguna                            |
+| ⚙️ Admin Panel       | CRUD menu makanan, kelola user, dan verifikasi pembayaran   |
 
 ---
 
