@@ -13,10 +13,10 @@ Selamat datang di proyek kami! Ini adalah aplikasi pemesanan makanan online berb
 ## 👥 Anggota Kelompok
 
 - 🧠 **Gunawan** – Project Manager & Back-End Developer  
-- 🎨 **Choiriyatun Nisa** – Front-End Developer & UI/UX Designer  
+- 🎨 **Gusdean** – Front-End Developer & UI/UX Designer  
 - 🎨 **Ghalih** – Front-End Developer & UI/UX Designer  
 - 🛠️ **Bimo** – Database Engineer  
-- ⚙️ **Gusdean** – Fullstack Developer  
+- ⚙️ **Choiriyatun Nisa** – Fullstack Developer  
 
 ---
 
