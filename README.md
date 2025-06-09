@@ -3,22 +3,6 @@
 Selamat datang di proyek kami! Ini adalah aplikasi pemesanan makanan online berbasis web yang memudahkan pengguna dalam memesan makanan dari berbagai restoran secara cepat dan efisien.
 
 ---
-<p align="center">
-  <img src="https://img.shields.io/badge/status-developing-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/PHP-v7.4-blue?logo=php&style=flat-square" />
-  <img src="https://img.shields.io/badge/MySQL-database-blue?logo=mysql&style=flat-square" />
-  <img src="https://img.shields.io/badge/Bootstrap-v5-purple?logo=bootstrap&style=flat-square" />
-</p>
-
----
-
-## 🌀 Loading...
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="80%" />
-</p>
-
----
 
 ## 📸 Foto Kelompok
 
@@ -74,7 +58,13 @@ Sistem ini dilengkapi dengan dashboard Admin untuk pengelolaan menu, pesanan, da
 - 📱 Responsive Design (Mobile Friendly)
 
 ---
+## 🌀 Loading...
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="80%" />
+</p>
+
+---
 ## 🛠️ Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-7.4-blue?logo=php)
