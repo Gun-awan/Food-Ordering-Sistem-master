@@ -44,6 +44,7 @@ Sistem ini dilengkapi dengan dashboard Admin untuk pengelolaan menu, pesanan, da
 | 🛒 Keranjang Belanja | Menambahkan dan mengelola pesanan makanan                   |
 | 💳 Pembayaran Online | Integrasi Midtrans Payment Gateway                          |
 | 📦 Riwayat Pesanan   | Lihat histori transaksi pengguna                            |
+| 🧾 Cetak Invoice & Laporan   | Menampilkan Invoice pesanan dan mencetak Laporan Transaksi                            |
 | ⚙️ Admin Panel       | CRUD menu makanan, kelola user, dan verifikasi pembayaran   |
 
 ---
