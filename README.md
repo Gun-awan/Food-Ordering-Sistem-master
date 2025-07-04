@@ -102,7 +102,7 @@ git clone https://github.com/Gun-awan/Food-Ordering-Sistem-master.git
 
 Jika ada pertanyaan, silakan hubungi kami:
 
-- 📧 Email: c.nisalatansa@gmail.com
+- 📧 Instagram: manusiapastinyaa_
 
 ---
 
