@@ -51,7 +51,7 @@ Sistem ini dilengkapi dengan dashboard Admin untuk pengelolaan menu, pesanan, da
 
 ## 🚀 Fitur Unggulan
 
-- 🔐 Login & Register User
+- 🔐 Login With Googel & Register User 
 - 🍔 Menu Makanan Dinamis
 - 🛒 Keranjang Belanja
 - 💳 Integrasi Payment Gateway (Midtrans)
@@ -75,6 +75,8 @@ Sistem ini dilengkapi dengan dashboard Admin untuk pengelolaan menu, pesanan, da
 ![CSS3](https://img.shields.io/badge/CSS3-Stylesheet-blue?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?logo=javascript)
 ![Midtrans](https://img.shields.io/badge/Midtrans-Payment-lightgrey)
+![TCPDF](https://img.shields.io/badge/TCPDF-PDF-blue)
+![Google](https://img.shields.io/badge/Login%20with-Google-red)
 
 ---
 
